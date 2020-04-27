@@ -9,7 +9,7 @@ function setGradient() {
 	+ color1.value 
 	+ ", " 
 	+ color2.value 
-	+ ")";
+	+ ") no-repeat center center fixed";
 
 	css.textContent = body.style.background + ";";
 }
